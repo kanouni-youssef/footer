@@ -68,5 +68,9 @@
     .logo__download a:last-child {
         margin-bottom: 0px;
     }
+
+    .logo__download a img {
+        margin-left: 0px;
+    }
 }
 /* Style */
